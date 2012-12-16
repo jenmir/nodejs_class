@@ -1,0 +1,83 @@
+== Info: About to connect() to www.saadmir.com port 80 (#0)
+== Info:   Trying 96.126.96.146... == Info: connected
+== Info: Connected to www.saadmir.com (96.126.96.146) port 80 (#0)
+=> Send header, 170 bytes (0xaa)
+0000: GET / HTTP/1.1
+0010: User-Agent: curl/7.19.7 (x86_64-redhat-linux-gnu) libcurl/7.19.7
+0050:  NSS/3.13.1.0 zlib/1.2.3 libidn/1.18 libssh2/1.2.2
+0084: Host: www.saadmir.com
+009b: Accept: */*
+00a8: 
+<= Recv header, 17 bytes (0x11)
+0000: HTTP/1.1 200 OK
+<= Recv header, 37 bytes (0x25)
+0000: Date: Sat, 15 Dec 2012 21:48:07 GMT
+<= Recv header, 32 bytes (0x20)
+0000: Server: Apache/2.2.17 (Ubuntu)
+<= Recv header, 36 bytes (0x24)
+0000: X-Powered-By: PHP/5.3.5-1ubuntu7.7
+<= Recv header, 23 bytes (0x17)
+0000: Vary: Accept-Encoding
+<= Recv header, 22 bytes (0x16)
+0000: Content-Length: 3394
+<= Recv header, 25 bytes (0x19)
+0000: Content-Type: text/html
+<= Recv header, 2 bytes (0x2)
+0000: 
+<= Recv data, 3394 bytes (0xd42)
+0000: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN".  "http
+0040: ://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">.<html xmlns="htt
+0080: p://www.w3.org/1999/xhtml" xml:lang="en" lang="en">.<head>.    <
+00c0: title>Saad mir</title>.    <meta http-equiv="content-type" conte
+0100: nt="text/html;charset=utf-8" />..    <link rel="stylesheet" href
+0140: ="/css/screen.css" type="text/css" media="screen, projection" />
+0180: .    <link rel="stylesheet" href="/css/print.css" type="text/css
+01c0: " media="print" />..    <!--[if IE]>.        <link rel="styleshe
+0200: et" href="/css/ie.css" type="text/css" media="screen, projection
+0240: " />.    <![endif]-->..    <link rel="stylesheet" href="/css/sty
+0280: le.css" type="text/css" media="screen, projection" />..    <styl
+02c0: e media="screen" type="text/css">html, body { margin:0; padding:
+0300: 0; }</style>.</head>.<body>.    <div style="background-color: #C
+0340: CCCCC; line-height: 5px;">&nbsp;</div>.        <div class="conta
+0380: iner">.            <div style="position:relative; padding-bottom
+03c0: :30px; height: 100%;">.                <div class="span-24"><div
+0400:  class="span-24">.    <div class="span-12 first">.        <h1 cl
+0440: ass="caps" style="font-size: 3em;">Saad Mir</h1>.        <div cl
+0480: ass="quiet">saad at saadmir.com</div>.        <div class="quiet"
+04c0: >San Francisco, CA</div>..        <div class="quiet">415.335.647
+0500: 7</div>.    </div>..    <div class="span-12 last">.            <
+0540: div class="top" style="text-align: right; padding-top: 3em;">.  
+0580:               <a href="http://www.linkedin.com/in/saadmir">.    
+05c0:                 <img src="http://www.linkedin.com/img/webpromo/b
+0600: tn_viewmy_160x33.png" width="160" height="33" border="0" alt="Vi
+0640: ew Saad Mir's profile on LinkedIn">.                </a>.       
+0680:      </div>..            <div class="top" style="text-align: rig
+06c0: ht; margin-top: 3em;">.                <script type="text/javasc
+0700: ript" src="http://download.skype.com/share/skypebuttons/js/skype
+0740: Check.js"></script>.                <a href="skype:saadmir?call"
+0780: >.                    <img src="http://mystatus.skype.com/bigcla
+07c0: ssic/saadmir" style="border: none;" width="182" height="44" alt=
+0800: "My status" />.                </a>.            </div>..        
+0840:     <div class="top" style="text-align: right; margin-top: 3em;"
+0880: >.                <iframe src="http://www.google.com/talk/servic
+08c0: e/badge/Show?tk=z01q6amlqg8i2rn58kr4obadeftnv9ecpp6ejmu8sfh86um9
+0900: arhnqqepmc78e4ljpdliec7fcp3nu9agg9g7672boo0sofafmdbrddgqmm3225rq
+0940: 2f166rad6so4suh50r47s0p87f8iov3r7hk47d175id39almrdlus4dj3rptk0dq
+0980: qd1lqdl6q5oj6cmjv30&w=200&h=60" frameborder="0" allowtransparenc
+09c0: y="true" width="200" height="60"></iframe>.            </div>.. 
+0a00:    </div>.</div>..</div>.            </div>.            <div sty
+0a40: le="position:absolute; bottom:0; text-align: left;" class="span-
+0a80: 24">.                <code>.                    <b>node.js * jav
+0ac0: ascript * php * java</b><br/>.                    mongodb * face
+0b00: book api * amazon aws (ec2, s3) * linux.                </code>.
+0b40:             </div>.        </div>.    </div>.<script>..  var _ga
+0b80: q = _gaq || [];.  _gaq.push(['_setAccount', 'UA-4468791-2']);.  
+0bc0: _gaq.push(['_trackPageview']);..  (function() {.    var ga = doc
+0c00: ument.createElement('script'); ga.type = 'text/javascript'; ga.a
+0c40: sync = true;.    ga.src = ('https:' == document.location.protoco
+0c80: l ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js
+0cc0: ';.    var s = document.getElementsByTagName('script')[0]; s.par
+0d00: entNode.insertBefore(ga, s);.  })();..</script>..</body>.</html>
+0d40: ..
+== Info: Connection #0 to host www.saadmir.com left intact
+== Info: Closing connection #0

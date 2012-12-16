@@ -1,0 +1,30 @@
+== Info: About to connect() to nodejs_class.jenmir.c9.io port 80 (#0)
+== Info:   Trying 107.21.26.185... == Info: connected
+== Info: Connected to nodejs_class.jenmir.c9.io (107.21.26.185) port 80 (#0)
+=> Send header, 186 bytes (0xba)
+0000: GET /noperm HTTP/1.1
+0016: User-Agent: curl/7.19.7 (x86_64-redhat-linux-gnu) libcurl/7.19.7
+0056:  NSS/3.13.1.0 zlib/1.2.3 libidn/1.18 libssh2/1.2.2
+008a: Host: nodejs_class.jenmir.c9.io
+00ab: Accept: */*
+00b8: 
+<= Recv header, 36 bytes (0x24)
+0000: HTTP/1.1 500 Internal Server Error
+<= Recv header, 55 bytes (0x37)
+0000: X-IDE-Server: project-livec951a74071b0.rhcloud.com:80
+<= Recv header, 37 bytes (0x25)
+0000: date: Sun, 16 Dec 2012 00:27:43 GMT
+<= Recv header, 20 bytes (0x14)
+0000: content-length: 77
+<= Recv header, 25 bytes (0x19)
+0000: content-type: text/html
+<= Recv header, 64 bytes (0x40)
+0000: strict-transport-security: max-age=15768000, includeSubDomains
+<= Recv header, 19 bytes (0x13)
+0000: connection: close
+<= Recv header, 2 bytes (0x2)
+0000: 
+<= Recv data, 77 bytes (0x4d)
+0000: There was an error getting the requested file: Error: EACCES, op
+0040: en './noperm'
+== Info: Closing connection #0
